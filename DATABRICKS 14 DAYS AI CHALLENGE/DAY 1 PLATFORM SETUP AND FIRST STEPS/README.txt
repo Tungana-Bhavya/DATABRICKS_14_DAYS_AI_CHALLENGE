@@ -11,4 +11,5 @@
 **Activities**
 - Explored Workspace, Compute, and Data Explorer
 - Created and worked with a Databricks notebook
+
 - Executed basic PySpark commands
