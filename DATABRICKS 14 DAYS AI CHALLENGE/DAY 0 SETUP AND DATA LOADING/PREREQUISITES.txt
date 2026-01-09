@@ -1,0 +1,22 @@
+DAY 0 – Setup & Data Loading (Prerequisites)
+
+Step 1: Create Databricks Account
+link: 
+https://login.databricks.com/signup?provider=DB_FREE_TIERutm_source%3Dyoutube&utm_medium=video&utm_campaign=CodeBasics&tuuid=57cef53e-09e0-4ed7-98b2-a9be04780c75&intent=SIGN_UP&dbx_source=direct&sisu_state=eyJsZWdhbFRleHRTZWVuIjp7Ii9zaWdudXAiOnsicHJpdmFjeSI6dHJ1ZSwiY29ycG9yYXRlRW1haWxTaGFyaW5nIjp0cnVlfX19
+
+Step 2: Get Kaggle API Credentials
+Step 3: Load Data in Databricks
+
+---
+
+Kaggle Datasource Link:
+https://www.kaggle.com/datasets/mkechinov/ecommerce-behavior-data-from-multi-category-store
+
+---
+
+Additional Resources:
+
+https://docs.databricks.com/aws/en
+
+https://spark.apache.org/docs/latest/api/python/reference/pyspark.sql/dataframe.html
+
