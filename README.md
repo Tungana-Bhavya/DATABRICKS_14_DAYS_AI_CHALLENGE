@@ -11,4 +11,6 @@ This repository documents my **14-day Databricks learning challenge**, organized
 
 ### [Day 1 – Platform Orientation](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/tree/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%201%20PLATFORM%20SETUP%20AND%20FIRST%20STEPS)
 
+### [Day 2 – Apache Spark Fundamentals](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/tree/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%202%20APACHE%20SPARK%20FUNDAMENTALS)
+
 
