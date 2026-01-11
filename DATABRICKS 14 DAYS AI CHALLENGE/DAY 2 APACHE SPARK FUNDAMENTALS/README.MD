@@ -12,23 +12,23 @@ This document demonstrates basic e-commerce data analysis using PySpark in a Dat
 - Notebook magic commands (`%sql`, `%python`, `%fs`)
 
 ## Important Notes
-1. Spark Architecture
+### 1. Spark Architecture
 - Driver: Orchestrates, schedules, holds SparkContext.
 - Executors: Run tasks, store intermediate data.
 - DAG: Shows task dependencies ; Spark optimizes execution.
 Insight: Monitor memory, reduce shuffles, repartition wisely.
 
-2. Dataframes vs RDDs
+### 2. Dataframes vs RDDs
 - RDD: Low-level, functional, no schema.
 - DataFrame: High-level, optimized, supports SQL & aggregations.
 Insight: Use DataFrames for ETL/analytics; RDDs for custom transformations.
 
-3. Lazy Evaluation
+### 3. Lazy Evaluation
 - Transformations (filter, select) : Lazy
 - Actions (show, count) : Trigger execution
 Insight: Combine transformations, cache reused DataFrames
 
-4. Notebook Magic Commands
+### 4. Notebook Magic Commands
 - %python : Run PySpark/Python
 - %sql : Run SQL queries
 - %fs : File system operations in DBFS
@@ -38,10 +38,10 @@ Insight: Mix SQL for analytics, Python for ETL, FS for file ops
 - Loaded the e-commerce dataset into a Spark DataFrame.
 - Displayed sample rows to inspect the dataset.
 - Performed Basic Analysis:
-> Filtered high-value products using filter.
-> Aggregated events by type using groupBy.
-> Selected key columns using select.
-> Ordered results to find top brands using orderBy.
+  - Filtered high-value products using filter.
+  - Aggregated events by type using groupBy.
+  - Selected key columns using select.
+  - Ordered results to find top brands using orderBy.
 
 ## Study Resources
 https://docs.databricks.com/pyspark/
