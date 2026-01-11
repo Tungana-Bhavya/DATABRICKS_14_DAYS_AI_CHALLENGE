@@ -13,4 +13,8 @@ This repository documents my **14-day Databricks learning challenge**, organized
 
 ### [Day 2 – Apache Spark Fundamentals](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/tree/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%202%20APACHE%20SPARK%20FUNDAMENTALS)
 
+### [Day 3 – PySpark Transformations Deep Dive](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/tree/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%203%20PYSPARK%20TRANSFORMATIONS)
+
+### [Day 4 – Delta Lake Introduction](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/tree/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%204%20Delta%20Lake%20Introduction)
+
 
