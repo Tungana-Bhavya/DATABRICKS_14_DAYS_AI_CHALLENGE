@@ -17,4 +17,6 @@ This repository documents my **14-day Databricks learning challenge**, organized
 
 ### [Day 4 – Delta Lake Introduction](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/tree/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%204%20Delta%20Lake%20Introduction)
 
+### [Day 5 – Delta Lake Advanced](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/tree/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%205%20DELTA%20LAKE%20ADVANCED)
+
 
