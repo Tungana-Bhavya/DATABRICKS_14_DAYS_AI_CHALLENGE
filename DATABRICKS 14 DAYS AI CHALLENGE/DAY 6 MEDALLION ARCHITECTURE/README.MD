@@ -1,7 +1,7 @@
-### Day 5 – Delta Lake Advanced
+### Day 6 – Medallion Architecture
 📅 14/01/26
 
-<img src="" alt="Image" width="500" height="520">
+<img src="https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/blob/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%206%20MEDALLION%20ARCHITECTURE/IMAGES/1.png" alt="Image" width="500" height="520">
 
 ## Topics Covered
 - Bronze (raw) → Silver (cleaned) → Gold (aggregated)
