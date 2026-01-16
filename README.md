@@ -21,6 +21,6 @@ This repository documents my **14-day Databricks learning challenge**, organized
 
 ### [Day 6 - Medallion Architecture](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/blob/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%206%20MEDALLION%20ARCHITECTURE/README.MD)
 
-### [Day 7 - [Workflows & Job Orchestration](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/tree/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%207%20WORKFLOW%20%26%20JOB%20ORCHESTRATION)
+### [Day 7 - Workflows & Job Orchestration](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/tree/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%207%20WORKFLOW%20%26%20JOB%20ORCHESTRATION)
 
 ### [Day 8 - Unity Catalog Governance](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/tree/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%208%20UNITY%20CATALOG%20GOVERNANCE)
