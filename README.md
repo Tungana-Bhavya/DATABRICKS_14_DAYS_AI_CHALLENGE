@@ -26,3 +26,5 @@ This repository documents my **14-day Databricks learning challenge**, organized
 ### [Day 8 - Unity Catalog Governance](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/tree/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%208%20UNITY%20CATALOG%20GOVERNANCE)
 
 ### [Day 9 - SQL Analytics & Dashboard](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/tree/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%209%20SQL%20ANALYTICS%20%26%20DASHBOARDS)
+
+### [Day 10 - Performance Optimization](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/blob/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%2010%20PERFORMANCE%20OPTIMIZATION/README.MD)
