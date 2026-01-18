@@ -20,7 +20,7 @@
 - Published a final dashboard to view key business metrics.
 
 ## Dashboard Image:
-<img src="https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/blob/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%209%20SQL%20ANALYTICS%20%26%20DASHBOARDS/IMAGES/DASHBOARD.jpg" alt="Image" width="500" height="520">
+<img src="https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/blob/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%209%20SQL%20ANALYTICS%20%26%20DASHBOARDS/IMAGES/DASHBOARD.jpg" alt="Image" width="800" height="820">
 
 ## Learning Resources:
 https://docs.databricks.com/sql/
