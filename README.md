@@ -30,3 +30,9 @@ This repository documents my **14-day Databricks learning challenge**, organized
 ### [Day 10 - Performance Optimization](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/blob/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%2010%20PERFORMANCE%20OPTIMIZATION/README.MD)
 
 ### [Day 11 - Statistical Analysis & ML Preparation](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/blob/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%2011%20STATISTICAL%20ANALYSIS%20&%20ML/README.MD)
+
+### [Day 12 - MLFlow Basics](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/tree/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%2012%20MLFLOW%20BASICS)
+
+### [Day 13 - Model Comparision & Feature Engineering](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/tree/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%2013%20MODEL%20COMPARISION%20%26%20FEATURE%20ENGINEERING)
+
+### [Day 14 - AI-Powered Analytics: Genie & Mosaic AI](https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/tree/main/DATABRICKS%2014%20DAYS%20AI%20CHALLENGE/DAY%2014%20GENIE%20%26%20MOSAIC%20AI)
