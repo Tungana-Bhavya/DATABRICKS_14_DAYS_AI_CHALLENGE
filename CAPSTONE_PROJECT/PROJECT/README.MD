@@ -1,4 +1,4 @@
-## AI Framework for Detecting Underpriced Fitness Products
+## AI-Driven Framework for Underpriced Fitness Products
 ### Problem Statement
 Fitness product pricing in the market is inconsistent, making it difficult for buyers to identify fair deals. Wide price variations exist for similar products, manual comparisons are slow and error-prone, and high-value deals are often hidden among overpriced listings.</br>
 
@@ -10,7 +10,7 @@ Build an AI-powered solution to:
 
 ### Project Overview
 - Data Engineering & Lakehouse Architecture
-•	Databases & Tables</br>
+- Databases & Tables</br>
 
 ### Processing Steps:
 o	Imported Amazon e-commerce data (~551,585 records).</br>
@@ -23,9 +23,9 @@ o	VectorAssembler used to combine numerical features (sub_cat_index, ratings, no
 
 ### Machine Learning Models
 #### Models Trained:
-1.	Linear Regression – Transparent and explainable, R² = 0.8855, RMSE = ₹2,131.18</br>
-2.	Random Forest Regressor – Captures non-linear relationships, R² = 0.7684, RMSE = ₹2,988.43</br>
-3.	Gradient Boosted Trees (GBT) – Strong performance with moderate complexity, R² = 0.8397, RMSE = ₹2,457.39</br>
+1.	Linear Regression – Transparent and explainable, R² = 0.8776, RMSE = ₹2292.00</br>
+2.	Random Forest Regressor – Captures non-linear relationships, R² = 0.7688, RMSE = ₹2,533.29</br>
+3.	Gradient Boosted Trees (GBT) – Strong performance with moderate complexity, R² = 0.8280, RMSE = ₹2,500.68</br>
 •	Final Model: Linear Regression selected for its accuracy, simplicity, and interpretability.</br>
 •	Feature Importance (Weights)</br>
 
