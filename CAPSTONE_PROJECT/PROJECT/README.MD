@@ -13,13 +13,13 @@ Build an AI-powered solution to:
 - Databases & Tables</br>
 
 ### Processing Steps:
-o	Imported Amazon e-commerce data (~551,585 records).</br>
-o	Filtered fitness-related products for analysis (~12,496 records).</br>
-o	Handled missing values and removed nulls (ratings, price columns).</br>
-o	Outlier detection: Removed extreme prices (e.g., ₹6.1 Crore).</br>
-o	Dropped irrelevant/zero-variance columns (image, link, _c0, main_category).</br>
-o	Categorical encoding: sub_category_standardized → numerical sub_cat_index.</br>
-o	VectorAssembler used to combine numerical features (sub_cat_index, ratings, no_of_ratings, discount_price) into a single feature vector.</br>
+- Imported Amazon e-commerce data (~551,585 records).</br>
+- Filtered fitness-related products for analysis (~12,496 records).</br>
+- Handled missing values and removed nulls (ratings, price columns).</br>
+- Outlier detection: Removed extreme prices (e.g., ₹6.1 Crore).</br>
+- Dropped irrelevant/zero-variance columns (image, link, _c0, main_category).</br>
+- Categorical encoding: sub_category_standardized → numerical sub_cat_index.</br>
+- VectorAssembler used to combine numerical features (sub_cat_index, ratings, no_of_ratings, discount_price) into a single feature vector.</br>
 
 ### Machine Learning Models
 #### Models Trained:
