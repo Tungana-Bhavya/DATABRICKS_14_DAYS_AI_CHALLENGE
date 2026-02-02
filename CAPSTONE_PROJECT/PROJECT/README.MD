@@ -37,7 +37,7 @@ https://www.kaggle.com/datasets/rajeevmishragwl/amazon-product-sales  </br>
 
 <b>Note:</b>
 The dataset file was not added to the GitHub repository due to size limitations.
-The dataset link is provided, and a sample reference image is available in the DATA folder.
+The dataset link is provided, and a medallion architecture image is available in the DATA folder along with presentation pdf.
 
 ### Requirements
 
