@@ -136,3 +136,7 @@ DATABRICKS_14_DAYS_AI_CHALLENGE/</br>
 - Delta Lake
 - PySpark MLlib
 - MLflow
+
+### Social Media Links
+LinkedIn Post Link:</br>
+https://www.linkedin.com/posts/bhavya-tungana-5194321b2_project-ugcPost-7423070522286034944-Q13H?utm_source=share&utm_medium=member_desktop&rcm=ACoAADGKk2UBVt1L3mtzdN5Cuo7Tc_lX9AhQdtw
