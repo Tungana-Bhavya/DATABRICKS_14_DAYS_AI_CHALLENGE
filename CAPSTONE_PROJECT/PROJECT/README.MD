@@ -1,7 +1,8 @@
 # AI-Driven Framework for Underpriced Fitness Products
 ## Databricks 14 Days AI Challenge – Phase II Capstone Project
 
-### Challenge: Built a PySpark-based workflow to analyze Amazon fitness product prices and identify underpriced products using machine learning.
+### Challenge: 
+Built a PySpark-based workflow to analyze Amazon fitness product prices and identify underpriced products using machine learning.
 
 ### Project Title
 
@@ -56,42 +57,40 @@ Databricks Lakehouse Architecture (Bronze → Silver → Gold)
 - Gold Layer: Feature-engineered data used for machine learning
 
 ### Data Processing Steps
-1. Bronze Layer – Data Ingestion
+1. <b>Bronze Layer – Data Ingestion</b>
 - Imported Amazon product data into Databricks
 - Added ingestion timestamp for tracking
 - Stored raw data in Delta tables
 
-2. Silver Layer – Data Cleaning
+2. <b>Silver Layer – Data Cleaning</b>
 - Filtered Sports & Fitness products
 - Removed duplicates and unnecessary columns
 - Standardized product sub-categories
 - Cleaned and converted price and rating fields
 - Handled missing values
 
-3. Gold Layer – Feature Engineering
+3. <b>Gold Layer – Feature Engineering</b>
 - Encoded categorical features
 - Combined numerical features using VectorAssembler
 - Removed extreme price outliers
 - Prepared data for training and testing
 
 ### Machine Learning Models
-Models Trained
-1. Linear Regression
+<b>Models Trained</b>
+1. <b>Linear Regression</b>
 - R² = 0.8776
 - RMSE = ₹2,292
 
-2. Random Forest Regressor
-
+2. <b>Random Forest Regressor</b>
 - R² = 0.7688
 - RMSE = ₹2,533
 
-3. Gradient Boosted Trees (GBT)
-
+3. <b>Gradient Boosted Trees (GBT)</b>
 - R² = 0.8280
 - RMSE = ₹2,500
 
-Final Model Selection
-Linear Regression was selected due to better accuracy and easier interpretation compared to other models.
+<b>Final Model Selection</b>
+<b>Linear Regression</b> was selected due to better results and easier interpretation compared to other models.
 
 ### AI Valuation Logic
 
@@ -107,21 +106,21 @@ Higher value scores indicate better pricing opportunities.
 - Cardio and strength training categories showed strong value potential
 
 ### GitHub Folder Structure
-DATABRICKS_14_DAYS_AI_CHALLENGE/
-└── CAPSTONE_PROJECT/
-    ├── Notebook/
-    │   └── UNDERVALUED_FITNESS_PRODUCTS_ANALYSIS.ipynb
-    │
-    ├── Images/
-    │
-    └── DATA/
-        ├── dataset_link.txt
-        └── Presentation/
-            └──AI-Driven Framework for Underpriced Fitness Products.pdf
+DATABRICKS_14_DAYS_AI_CHALLENGE/</br>
+└── CAPSTONE_PROJECT/</br>
+    ├── Notebook/</br>
+    │   └── UNDERVALUED_FITNESS_PRODUCTS_ANALYSIS.ipynb</br>
+    │</br>
+    ├── Images/</br>
+    │</br>
+    └── DATA/</br>
+        ├── dataset_link.txt</br>
+        └── Presentation/</br>
+            └──AI-Driven Framework for Underpriced Fitness Products.pdf</br>
 
 ### What I Completed
 
-- Completed a Phase II capstone project under the Databricks 14 Days AI Challenge
+- Completed a <b>Phase II capstone project</b> under the <b>Databricks 14 Days AI Challenge</b>
 - Imported and processed large Amazon product data
 - Cleaned and standardized pricing information
 - Trained and evaluated multiple machine learning models
