@@ -87,7 +87,7 @@ Databricks Lakehouse Architecture (Bronze → Silver → Gold)
 - R² = 0.8280
 - RMSE = ₹2,500
 
-<img src="https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/blob/main/CAPSTONE_PROJECT/PROJECT/IMAGES/MODEL_TRAINING_RESULT.jpg" alt="Image" width="500" height="800">
+<img src="https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/blob/main/CAPSTONE_PROJECT/PROJECT/IMAGES/MODEL_TRAINING_RESULT.jpg" alt="Image" width="1000" height="800">
 
 <b>Final Model Selection</b>
 <b>Linear Regression</b> was selected due to better results and easier interpretation compared to other models.
@@ -100,7 +100,7 @@ Databricks Lakehouse Architecture (Bronze → Silver → Gold)
 (Price Gap / Predicted Price) × 100
 Higher value scores indicate better pricing opportunities.
 
-<img src="https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/blob/main/CAPSTONE_PROJECT/PROJECT/IMAGES/UNDERVALUED_FITNESS_PRODUCTS_ANALYSIS.jpg" alt="Image" width="500" height="800">
+<img src="https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/blob/main/CAPSTONE_PROJECT/PROJECT/IMAGES/UNDERVALUED_FITNESS_PRODUCTS_ANALYSIS.jpg" alt="Image" width="500" height="1000">
 
 ### Key Insights
 - Identified multiple underpriced fitness products
