@@ -30,7 +30,7 @@ Build an AI-driven solution to:
 <b>Dataset Name:</b> Amazon Product Sales Dataset</br>
 <b>Data Source Platform:</b> Kaggle</br>
 <b>Dataset Link:</b></br>
-https://www.kaggle.com/datasets/rajeevmishragwl/amazon-product-sales
+https://www.kaggle.com/datasets/rajeevmishragwl/amazon-product-sales  </br>
 <b>Dataset Size:</b> ~179 MB</br>
 <b>Total Records Imported:</b> 551,585</br>
 <b>Fitness Products Used:</b> 12,496</br>
