@@ -10,9 +10,9 @@ Built a PySpark-based workflow to analyze Amazon fitness product prices and iden
 
 ### About the Project
 
-This project was completed as part of Phase II of the Databricks 14 Days AI Challenge. The goal of the project is to analyze pricing inconsistencies in Amazon fitness products and identify products that are priced below their fair market value.
+This project was completed as part of <b>Phase II of the Databricks 14 Days AI Challenge.</b> The goal of the project is to analyze pricing inconsistencies in Amazon fitness products and identify products that are priced below their fair market value.
 
-Using PySpark and Databricks, the project predicts fair prices, detects underpriced products, and presents value-based insights. The workflow is organized using a Bronze, Silver, and Gold data structure for better data management.
+Using <b>PySpark</b> and <b>Databricks</b>, the project predicts fair prices, detects underpriced products, and presents value-based insights. The workflow is organized using a <b>Bronze</b>, <b>Silver</b>, and <b>Gold </b>data structure for better data management.
 
 ### Problem Statement
 
@@ -27,15 +27,13 @@ Build an AI-driven solution to:
 
 ### Dataset Details
 
-Dataset Name: Amazon Product Sales Dataset</br>
-Data Source Platform: Kaggle</br>
-Dataset Link:</br>
+<b>Dataset Name:</b> Amazon Product Sales Dataset</br>
+<b>Data Source Platform:</b> Kaggle</br>
+<b>Dataset Link:</b></br>
 https://www.kaggle.com/datasets/rajeevmishragwl/amazon-product-sales
-
-### Dataset Size: ~179 MB
-
-Total Records Imported: 551,585</br>
-Fitness Products Used: 12,496</br>
+<b>Dataset Size:</b> ~179 MB</br>
+<b>Total Records Imported:</b> 551,585</br>
+<b>Fitness Products Used:</b> 12,496</br>
 
 <b>Note:</b>
 The dataset file was not added to the GitHub repository due to size limitations.
@@ -89,6 +87,8 @@ Databricks Lakehouse Architecture (Bronze → Silver → Gold)
 - R² = 0.8280
 - RMSE = ₹2,500
 
+<img src="https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/blob/main/CAPSTONE_PROJECT/PROJECT/IMAGES/MODEL_TRAINING_RESULT.jpg" alt="Image" width="500" height="800">
+
 <b>Final Model Selection</b>
 <b>Linear Regression</b> was selected due to better results and easier interpretation compared to other models.
 
@@ -99,6 +99,8 @@ Databricks Lakehouse Architecture (Bronze → Silver → Gold)
 - Value Score (%):
 (Price Gap / Predicted Price) × 100
 Higher value scores indicate better pricing opportunities.
+
+<img src="https://github.com/Tungana-Bhavya/DATABRICKS_14_DAYS_AI_CHALLENGE/blob/main/CAPSTONE_PROJECT/PROJECT/IMAGES/UNDERVALUED_FITNESS_PRODUCTS_ANALYSIS.jpg" alt="Image" width="500" height="800">
 
 ### Key Insights
 - Identified multiple underpriced fitness products
